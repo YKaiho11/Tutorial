@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 iho:`
 left
+=======
+kaiho:`
+right
+>>>>>>> test_right_branch
